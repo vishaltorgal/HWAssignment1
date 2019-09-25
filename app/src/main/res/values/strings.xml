@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW Assignment1</string>
+
+    <string name="s51">min  &lt;= hour &amp;&amp; hour &lt;= max</string>
+    <string name="s52">System.out.println(greeting + \", World! \" )</string>
+
+</resources>
